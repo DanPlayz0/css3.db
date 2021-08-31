@@ -1,5 +1,8 @@
 # Css3.DB
 
+[![downloadsBadge](https://img.shields.io/npm/dt/css3.db?style=for-the-badge)](https://npmjs.com/css3.db)
+[![versionBadge](https://img.shields.io/npm/v/css3.db?style=for-the-badge)](https://npmjs.com/css3.db)
+
 A simple database that uses css as the storage format.
 
 ## Installation
