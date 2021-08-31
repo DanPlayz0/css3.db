@@ -1,6 +1,6 @@
 {
   "name": "css3.db",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a simple database that uses css as the storage format.",
   "main": "index.js",
   "scripts": {
