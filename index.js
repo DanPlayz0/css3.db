@@ -19,7 +19,6 @@ module.exports = class CssDB {
     if (!key || typeof key !== "string") throw new TypeError("Please provide a valid key");
     if (!value) throw new TypeError("Please provide a valid value");
     if (this.has(key)) throw Error(`The key '${key}' already exists`);
-    if (typeof value === 'object') throw Error('Objects are not supported yet');
     fs.writeFileSync(this.path, `${this.raw}\n#${key} { ${value} };`.trim());
     return true;
   }

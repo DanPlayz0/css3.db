@@ -1,12 +1,23 @@
 {
   "name": "css3.db",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is a simple database that uses css as the storage format.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "database",
+    "css",
+    "css3",
+    "db",
+    "backend",
+    "storage",
+    "storage-engine",
+    "storage-format",
+    "storage-engine-css",
+    "storage-engine-css3"
+  ],
   "author": "DanPlayz0",
   "license": "MIT",
   "repository": {
